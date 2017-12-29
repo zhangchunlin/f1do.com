@@ -4,7 +4,10 @@ f1do 是一个效率工具站点,目前只有一个功能:**待做事项的打�
 
 # 网址
 
-https://www.f1do.com
+- 站点: https://www.f1do.com
+- 报告问题请到: [这里](https://github.com/zhangchunlin/f1do.com/issues)
+
+
 
 # 测试帐号
 
@@ -28,16 +31,30 @@ password: test
 
 # 屏幕截图
 
+### 待做事项列表
+
 ![](screenshots/Screenshot01.png)
+
+### 下方有显示禁用打卡的选项
 
 ![](screenshots/Screenshot02.png)
 
+### 事项编辑界面
+
 ![](screenshots/Screenshot03.png)
+
+### 列表标题搜索过滤
 
 ![](screenshots/Screenshot04.png)
 
+### 在列表上直接打卡
+
 ![](screenshots/Screenshot05.png)
 
+### 新建事项界面
+
 ![](screenshots/Screenshot06.png)
+
+### 在事项编辑界面打卡
 
 ![](screenshots/Screenshot07.png)
