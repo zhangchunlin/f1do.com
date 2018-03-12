@@ -51,30 +51,26 @@ password: test
 
 # 屏幕截图
 
-### 待做事项列表
+### 待做事项列表(下方有显示禁用打卡的选项)
 
-![](screenshots/Screenshot01.png)
-
-### 下方有显示禁用打卡的选项
-
-![](screenshots/Screenshot02.png)
+![](screenshots/screenshot01.jpg)
 
 ### 事项编辑界面
 
-![](screenshots/Screenshot03.png)
+![](screenshots/screenshot02.jpg)
 
 ### 列表标题搜索过滤
 
-![](screenshots/Screenshot04.png)
+![](screenshots/screenshot03.jpg)
 
 ### 在列表上直接打卡
 
-![](screenshots/Screenshot05.png)
+![](screenshots/screenshot04.jpg)
 
 ### 新建事项界面
 
-![](screenshots/Screenshot06.png)
+![](screenshots/screenshot05.jpg)
 
 ### 在事项编辑界面打卡
 
-![](screenshots/Screenshot07.png)
+![](screenshots/screenshot06.jpg)
