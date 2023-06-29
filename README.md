@@ -12,10 +12,18 @@ f1do 是一个效率工具站点,目前有两个功能
 
 # 功能
 
+## 记录列表
+
 ![](screenshots/pearls01.png)
+
+## 同标题记录
 
 ![](screenshots/pearls02.png)
 
+## 单条记录
+
 ![](screenshots/pearls03.png)
+
+## 同引用记录
 
 ![](screenshots/pearls04.png)
